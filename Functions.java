@@ -21,7 +21,7 @@ public class Functions
     }
 
     //with parameters, no return
-    static double subFunction(double x, double y)
+    static void subFunction(double x, double y)
     {
         System.out.println(x-y);
     }
